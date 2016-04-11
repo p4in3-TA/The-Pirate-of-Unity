@@ -1,0 +1,18 @@
+main()
+{
+}
+
+public OnGameModeInit()
+{
+	SetGameModeText("tmg test");
+    	printf("Hello World!");
+
+	return 1;
+}
+
+
+
+public OnGameModeExit()
+{
+	return 1;
+}
